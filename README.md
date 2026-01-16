@@ -1,4 +1,4 @@
-# Foodie – Wireframing & Low-Fidelity Design
+# Foodie App – Low-Fidelity Design
 
 ## Project Overview
 This project contains low-fidelity wireframes for a food delivery mobile application.
